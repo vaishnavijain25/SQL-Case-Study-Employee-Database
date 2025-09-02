@@ -1,4 +1,4 @@
-# SQL Case Study – Employee Database  
+# SQL Case Study – Employee Database Analysis
 
 This repository contains a **SQL Case Study Project** that I completed as part of my **Data Science course**.  
 The project focuses on designing an Employee Database and solving queries to strengthen SQL concepts.  
